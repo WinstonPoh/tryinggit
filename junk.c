@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include "math_func.h"
 #define MAX_NUM 20
 #define MIN_NUM -20
 
